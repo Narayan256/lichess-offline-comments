@@ -8,7 +8,7 @@ Contributions to this project are welcome!
 
 If you want to contribute, please read the [contributing guide](./CONTRIBUTING.md).
 
-## Setup
+## Setup !
 
 tl;dr: Install Flutter, clone the repo, run in order:
 - `flutter pub get`
