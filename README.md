@@ -4,7 +4,7 @@ Second iteration of the [Lichess mobile app](https://lichess.org/mobile).
 
 ## How to contribute !
 
-Contributions to this project are welcome!!
+Contributions to this project are welcome!!!
 
 If you want to contribute, please read the [contributing guide](./CONTRIBUTING.md).
 
